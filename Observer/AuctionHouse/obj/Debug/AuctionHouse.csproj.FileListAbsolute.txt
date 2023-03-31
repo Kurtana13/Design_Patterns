@@ -1,0 +1,16 @@
+D:\Github\AuctionHouse\AuctionHouse\bin\Debug\AuctionHouse.exe.config
+D:\Github\AuctionHouse\AuctionHouse\bin\Debug\AuctionHouse.exe
+D:\Github\AuctionHouse\AuctionHouse\bin\Debug\AuctionHouse.pdb
+D:\Github\AuctionHouse\AuctionHouse\obj\Debug\AuctionHouse.csproj.AssemblyReference.cache
+D:\Github\AuctionHouse\AuctionHouse\obj\Debug\AuctionHouse.csproj.SuggestedBindingRedirects.cache
+D:\Github\AuctionHouse\AuctionHouse\obj\Debug\AuctionHouse.csproj.CoreCompileInputs.cache
+D:\Github\AuctionHouse\AuctionHouse\obj\Debug\AuctionHouse.exe
+D:\Github\AuctionHouse\AuctionHouse\obj\Debug\AuctionHouse.pdb
+D:\Github\Design_Patterns\AuctionHouse\AuctionHouse\bin\Debug\AuctionHouse.exe.config
+D:\Github\Design_Patterns\AuctionHouse\AuctionHouse\bin\Debug\AuctionHouse.exe
+D:\Github\Design_Patterns\AuctionHouse\AuctionHouse\bin\Debug\AuctionHouse.pdb
+D:\Github\Design_Patterns\AuctionHouse\AuctionHouse\obj\Debug\AuctionHouse.csproj.AssemblyReference.cache
+D:\Github\Design_Patterns\AuctionHouse\AuctionHouse\obj\Debug\AuctionHouse.csproj.SuggestedBindingRedirects.cache
+D:\Github\Design_Patterns\AuctionHouse\AuctionHouse\obj\Debug\AuctionHouse.csproj.CoreCompileInputs.cache
+D:\Github\Design_Patterns\AuctionHouse\AuctionHouse\obj\Debug\AuctionHouse.exe
+D:\Github\Design_Patterns\AuctionHouse\AuctionHouse\obj\Debug\AuctionHouse.pdb
