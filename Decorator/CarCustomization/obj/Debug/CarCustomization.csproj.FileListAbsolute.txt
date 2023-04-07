@@ -1,0 +1,8 @@
+D:\Github\CarCustomization\CarCustomization\bin\Debug\CarCustomization.exe.config
+D:\Github\CarCustomization\CarCustomization\bin\Debug\CarCustomization.exe
+D:\Github\CarCustomization\CarCustomization\bin\Debug\CarCustomization.pdb
+D:\Github\CarCustomization\CarCustomization\obj\Debug\CarCustomization.csproj.AssemblyReference.cache
+D:\Github\CarCustomization\CarCustomization\obj\Debug\CarCustomization.csproj.SuggestedBindingRedirects.cache
+D:\Github\CarCustomization\CarCustomization\obj\Debug\CarCustomization.csproj.CoreCompileInputs.cache
+D:\Github\CarCustomization\CarCustomization\obj\Debug\CarCustomization.exe
+D:\Github\CarCustomization\CarCustomization\obj\Debug\CarCustomization.pdb

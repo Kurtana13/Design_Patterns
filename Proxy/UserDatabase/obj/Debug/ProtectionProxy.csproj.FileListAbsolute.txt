@@ -1,0 +1,8 @@
+D:\Github\ProtectionProxy\ProtectionProxy\bin\Debug\ProtectionProxy.exe.config
+D:\Github\ProtectionProxy\ProtectionProxy\bin\Debug\ProtectionProxy.exe
+D:\Github\ProtectionProxy\ProtectionProxy\bin\Debug\ProtectionProxy.pdb
+D:\Github\ProtectionProxy\ProtectionProxy\obj\Debug\ProtectionProxy.csproj.AssemblyReference.cache
+D:\Github\ProtectionProxy\ProtectionProxy\obj\Debug\ProtectionProxy.csproj.SuggestedBindingRedirects.cache
+D:\Github\ProtectionProxy\ProtectionProxy\obj\Debug\ProtectionProxy.csproj.CoreCompileInputs.cache
+D:\Github\ProtectionProxy\ProtectionProxy\obj\Debug\ProtectionProxy.exe
+D:\Github\ProtectionProxy\ProtectionProxy\obj\Debug\ProtectionProxy.pdb
