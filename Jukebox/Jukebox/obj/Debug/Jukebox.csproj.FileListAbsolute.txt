@@ -1,0 +1,8 @@
+D:\Github\Jukebox\Jukebox\bin\Debug\Jukebox.exe.config
+D:\Github\Jukebox\Jukebox\bin\Debug\Jukebox.exe
+D:\Github\Jukebox\Jukebox\bin\Debug\Jukebox.pdb
+D:\Github\Jukebox\Jukebox\obj\Debug\Jukebox.csproj.AssemblyReference.cache
+D:\Github\Jukebox\Jukebox\obj\Debug\Jukebox.csproj.SuggestedBindingRedirects.cache
+D:\Github\Jukebox\Jukebox\obj\Debug\Jukebox.csproj.CoreCompileInputs.cache
+D:\Github\Jukebox\Jukebox\obj\Debug\Jukebox.exe
+D:\Github\Jukebox\Jukebox\obj\Debug\Jukebox.pdb
