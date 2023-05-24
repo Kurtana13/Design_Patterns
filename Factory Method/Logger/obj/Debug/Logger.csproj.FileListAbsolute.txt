@@ -1,0 +1,8 @@
+D:\Github\Logger\Logger\bin\Debug\Logger.exe.config
+D:\Github\Logger\Logger\bin\Debug\Logger.exe
+D:\Github\Logger\Logger\bin\Debug\Logger.pdb
+D:\Github\Logger\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+D:\Github\Logger\Logger\obj\Debug\Logger.csproj.SuggestedBindingRedirects.cache
+D:\Github\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Github\Logger\Logger\obj\Debug\Logger.exe
+D:\Github\Logger\Logger\obj\Debug\Logger.pdb
