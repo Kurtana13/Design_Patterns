@@ -1,0 +1,8 @@
+D:\Github\Databases\Databases\bin\Debug\Databases.exe.config
+D:\Github\Databases\Databases\bin\Debug\Databases.exe
+D:\Github\Databases\Databases\bin\Debug\Databases.pdb
+D:\Github\Databases\Databases\obj\Debug\Databases.csproj.AssemblyReference.cache
+D:\Github\Databases\Databases\obj\Debug\Databases.csproj.SuggestedBindingRedirects.cache
+D:\Github\Databases\Databases\obj\Debug\Databases.csproj.CoreCompileInputs.cache
+D:\Github\Databases\Databases\obj\Debug\Databases.exe
+D:\Github\Databases\Databases\obj\Debug\Databases.pdb
